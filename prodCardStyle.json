@@ -1,0 +1,65 @@
+{
+    "color_usage": {
+      "dominant_tones": ["pastel blue", "light beige", "soft red", "white", "muted green", "light pink"],
+      "accent_colors": ["bright yellow", "light orange", "warm brown"],
+      "gradient": false,
+      "palette_style": "playful pastel with high contrast accents"
+    },
+    "typography_style": {
+      "font_mood": "bold, friendly, modern",
+      "primary_font_weight": "extra-bold",
+      "secondary_font_weight": "regular",
+      "font_case": "uppercase for headers, sentence case for subheaders",
+      "usage_hierarchy": "header -> subheading -> annotations",
+      "text_placement": "left-aligned, overlaying neutral zones of the background or adjacent to key visual elements"
+    },
+    "lighting_and_vibe": {
+      "overall_vibe": "vibrant and playful",
+      "lighting": "bright daylight with soft shadows",
+      "highlighting": "mild ambient glow on key elements"
+    },
+    "subject_placement": {
+      "main_subject": "foreground, slightly right-of-center",
+      "floating_elements": "callouts and arrows placed around the subject",
+      "angle": "mild perspective tilt for depth and realism"
+    },
+    "background_style": {
+      "type": "scenic gradient",
+      "details": "soft blur of sky and horizon to create airy depth",
+      "clutter": "minimal, non-distracting background"
+    },
+    "composition_layout": {
+      "structure": "rule of thirds",
+      "balance": "weighted toward right with text offsetting on left",
+      "callout_positioning": "diagonally connected to objects with icons or arrows"
+    },
+    "branding_elements": {
+      "overlays": "semi-transparent banners for text",
+      "strokes": "none",
+      "glows": "subtle glow around callout icons",
+      "shapes": "rounded rectangles and speech bubbles for emphasis",
+      "motifs": "cartoon-like icons (e.g., cat, windmill)"
+    },
+    "visual_tone": {
+      "style": "playful and bright",
+      "audience": "family-friendly, educational, hobbyist",
+      "personality": "joyful, curious, energetic"
+    },
+    "post_processing_style": {
+      "contrast": "moderate",
+      "saturation": "slightly boosted for pastel vividness",
+      "shadows": "soft-edged",
+      "glow": "subtle and localized",
+      "noise": "none, ultra-clean finish"
+    },
+    "general_style_tags": [
+      "playful aesthetic",
+      "children's toy branding",
+      "pastel pop",
+      "family-friendly",
+      "educational visual language",
+      "3D isometric style",
+      "colorful editorial"
+    ]
+  }
+  

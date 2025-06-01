@@ -1,0 +1,60 @@
+{
+    "color_usage": {
+      "dominant_tones": ["muted green", "peach", "soft gray", "warm yellow", "light orange"],
+      "accent_colors": ["lime green", "dark brown", "black"],
+      "gradient": false,
+      "palette_style": "flat, cartoon-inspired, with warm and soft tones"
+    },
+    "typography_style": {
+      "font_mood": "not applicable (no visible text)",
+      "placement": "n/a",
+      "usage_hierarchy": "n/a"
+    },
+    "lighting_and_vibe": {
+      "overall_vibe": "soft and emotionally expressive",
+      "lighting": "flat lighting, no directional shadows",
+      "highlighting": "color contrasts used to direct attention"
+    },
+    "subject_placement": {
+      "main_subject": "centered, slightly tilted toward interaction",
+      "floating_elements": "none, all characters grounded in frame",
+      "angle": "frontal cartoon perspective with minimal depth"
+    },
+    "background_style": {
+      "type": "flat fill with minimal detail",
+      "details": "chalkboard-style dark green with white line",
+      "clutter": "very low, background purely functional"
+    },
+    "composition_layout": {
+      "structure": "rule of thirds with emphasis on character interaction",
+      "balance": "symmetrical and character-focused",
+      "callout_positioning": "n/a"
+    },
+    "branding_elements": {
+      "overlays": "none",
+      "strokes": "bold outline on characters and objects",
+      "glows": "none",
+      "shapes": "rounded forms, soft corners on all elements",
+      "motifs": "childlike exaggeration of facial expressions and forms"
+    },
+    "visual_tone": {
+      "style": "playful and emotional",
+      "audience": "children, educators, soft emotional storytelling",
+      "personality": "friendly, approachable, expressive"
+    },
+    "post_processing_style": {
+      "contrast": "low to moderate",
+      "saturation": "medium with warm bias",
+      "shadows": "none",
+      "glow": "none",
+      "noise": "none, clean vector feel"
+    },
+    "general_style_tags": [
+      "educational cartoon",
+      "flat illustration",
+      "children's media",
+      "emotional learning aesthetic",
+      "digital storybook style"
+    ]
+  }
+  
