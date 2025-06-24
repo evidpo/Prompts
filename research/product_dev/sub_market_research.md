@@ -362,4 +362,4 @@ ADAPTIVE SOURCING REQUIREMENTS:
 - Food manufacturing и processing forums
 - Sustainable food и packaging communities
 
-ВЫ ДОЛЖНЫ адаптировать source discovery под специфику [ЦЕЛЕВОЙ_РЫНОК] и обеспечить comprehensive coverage всех relevant discussion channels.
+ВЫ ДОЛЖНЫ адаптировать source discovery под специфику [ЦЕЛЕВОЙ_РЫНОК] и обеспечить comprehensive coverage всех relevant discussion channels. Отвечай на русском
