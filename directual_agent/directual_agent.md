@@ -356,4 +356,18 @@ Integrations: OpenAI, Vector databases, Analytics
 
 ---
 
+## ⚠️ ОСОБЕННОСТИ JAVASCRIPT В DIRECTUAL WEB-PAGE BUILDER
+
+### DOMContentLoaded НЕ РАБОТАЕТ
+В Directual из-за особенностей рендеринга компонентов событие `DOMContentLoaded` НЕ срабатывает корректно.
+
+❌ **НЕ ИСПОЛЬЗУЙТЕ:**
+```javascript
+document.addEventListener('DOMContentLoaded', function() {
+  // Этот код может не выполниться
+});
+```
+
+✅ ИСПОЛЬЗУЙТЕ АЛЬТЕРНАТИВЫ
+
 **Готов помочь развить и усовершенствовать ваш проект на Directual! Расскажите о текущем состоянии системы и целях развития.**
